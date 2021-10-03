@@ -24,7 +24,10 @@
  Foram comparados alguns algoritmos de Machine Learning e escolhido um para fazer a previsão. Foi obsevada uma variação importante com a mudança dos parâmetros dos algoritmos, em especial da Random Forest, que melhorou a acurácia de 0,73 para a,76 com o aumento do número de estimadores. 
  
  # Melhorias futuras
- Criar uma função que percorra automaticamente um range de estimadores para a Random Forest
  
- Criar uma função de iterações para a regressão logística
+ Normalizar as features antes de treinar o modelo e comparar os resultados;
+ 
+ Criar uma função que percorra automaticamente um range de estimadores para a Random Forest;
+ 
+ Criar uma função de iterações para a regressão logística.
 
