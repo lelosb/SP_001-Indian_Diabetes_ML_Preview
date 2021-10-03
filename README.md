@@ -25,5 +25,6 @@
  
  # Melhorias futuras
  Criar uma função que percorra automaticamente um range de estimadores para a Random Forest
+ 
  Criar uma função de iterações para a regressão logística
 
