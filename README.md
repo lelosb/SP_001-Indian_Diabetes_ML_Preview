@@ -1,3 +1,5 @@
+> Status: Concluído 🚀
+
 # Objetivo
   
   O objetivo deste projeto é utilizar uma base de dados do Kaggle para estudar a aplicação e comparação de modelos de Machine Learning. 
